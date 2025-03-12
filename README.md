@@ -1,4 +1,4 @@
-# Skeleton FSE Theme
+# Mody Full Site Editing Skeleton
 
 Un tema mínimo para WordPress Full Site Editing (FSE) que sirve como punto de partida para el desarrollo de temas modernos.
 
@@ -17,15 +17,15 @@ Un tema mínimo para WordPress Full Site Editing (FSE) que sirve como punto de p
 - Editor Gutenberg activado (si usas versión anterior a WordPress 6.0)
 
 ## Estructura de archivos
-/skeleton-fse-theme/
 
-- style.css # Hoja de estilos principal
-- theme.json # Configuración del tema
-- templates/ # Plantillas del tema
-  - index.html # Plantilla principal 
-- parts/ # Partes reutilizables 
-  - header.html # Cabecera del sitio 
-  - footer.html # Pie del sitio
+- /wp-theme/
+  - style.css # Hoja de estilos principal
+  - theme.json # Configuración del tema
+  - templates/ # Plantillas del tema
+    - index.html # Plantilla principal 
+  - parts/ # Partes reutilizables 
+    - header.html # Cabecera del sitio 
+    - footer.html # Pie del sitio
 
 
 ## Instalación
